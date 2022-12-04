@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xweret/CotizadorSeguros/static/css/main.d688a4cb.css",
+    "main.js": "/xweret/CotizadorSeguros/static/js/main.bf47dcd0.js",
+    "static/js/787.c8656106.chunk.js": "/xweret/CotizadorSeguros/static/js/787.c8656106.chunk.js",
+    "index.html": "/xweret/CotizadorSeguros/index.html",
+    "main.d688a4cb.css.map": "/xweret/CotizadorSeguros/static/css/main.d688a4cb.css.map",
+    "main.bf47dcd0.js.map": "/xweret/CotizadorSeguros/static/js/main.bf47dcd0.js.map",
+    "787.c8656106.chunk.js.map": "/xweret/CotizadorSeguros/static/js/787.c8656106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d688a4cb.css",
+    "static/js/main.bf47dcd0.js"
+  ]
+}
